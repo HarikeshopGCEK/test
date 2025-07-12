@@ -1,0 +1,4 @@
+#ifndef LIBRARY_MAIN_H
+#define LIBRARY_MAIN_H
+
+#endif // LIBRARY_MAIN_H
